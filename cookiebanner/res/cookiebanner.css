@@ -1,0 +1,16 @@
+/* Cookie-Banner  */
+#cookie_banner { 
+	background: lightgray;
+	color: black;
+	position: fixed;
+	bottom: 0px;
+	left: 0;
+	z-index: 10000; 
+	width: 100%; 
+	opacity: 0.8;
+}
+
+/* OK-Button */
+.btn.btn-primary.btn-sm {
+	cursor: pointer;
+}

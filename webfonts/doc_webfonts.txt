@@ -1,0 +1,25 @@
+Webfonts-Plugin
+===============
+
+Description
+-----------
+This plugin ensures that the Google Webfonts
+Open Sans, Noto Sans, Noto Sans Mono, Ubuntu Mono and Playfair Display
+are provided on your web server in a GDPR-safe manner.
+
+With the help of web fonts you can use any font in web design.
+The WOFF format (Web Open Font Format) was declared a standard by the W3C in 2012 and is supported by modern browsers.
+With its container structure, it offers the advantage that True Type fonts are compressed without loss and
+additional information about the license can be supplied. The successor WOFF2 is the standard today.
+
+CSS rules to specify families
+-----------------------------
+font-family: 'Ubuntu Mono', monospace;
+font-family: 'Noto Sans Mono', monospace;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+
+Font-License
+------------
+The license information is stored in the CSS file
