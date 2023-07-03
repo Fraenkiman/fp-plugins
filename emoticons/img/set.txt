@@ -1,0 +1,1137 @@
+1F600	:grinning: :mrgreen: ^_^ ^^ ^-^ ^.^
+1F603	:smiley: :smile-big: :-D :D :d
+1F604	:smile: :-] :] =) =] :-> :> =>
+1F601	:grin:
+1F606	:satisfied:
+1F605	:sweat_smile:
+1F923	:rofl:
+1F602	:joy: :lol: :D :-D XD xD :°D =D 8D BD x3 X3 :-)) :)) 
+1F642	:slight_smile: :) :-)
+1F643	:upside_down:
+1F609	:wink: ;) ;-) ;-] M] ;-> ;>
+1F60A	:blush:
+1F607	:innocent: :angel: o:)
+1F970	:smiling_face_with_3_hearts:
+1F60D	:heart_eyes: :love: <3
+1F929	:star_struck:
+1F618	:kissing_heart:
+1F617	:kissing:
+263A	:relaxed:
+1F61A	:kissing_closed_eyes:
+1F619	:kissing_smiling_eyes:
+1F972	:grateful:
+1F60B	:yum:
+1F61B	:stuck_out_tongue: :naughty: :p ;P :P ;-P :-P
+1F61C	:stuck_out_tongue_winking_eye:
+1F92A	:zany_face: :zany:
+1F61D	:stuck_out_tongue_closed_eyes:
+1F911	:money_mouth_face: :money_mouth:
+1F917	:hugging: :smiling_face_with_open_hands:
+1F92D	:face_with_hand_over_mouth: :hand_over_mouth:
+1FAE2	:face_with_open_eyes_and_hand_over_mouth:
+1FAE3	:face_with_peeking_eye: :peeking_eye:
+1F92B	:shushing_face: :shushing:
+1F914	:thinking:
+1FAE1	:saluting_face: :saluting:
+1F910	:zipper_mouth:
+1F928	:face_with_raised_eyebrow: :raised_eyebrow:
+1F610	:neutral_face: :neutral: :plain: :| :-|
+1F611	:expressionless:
+1F636	:no_mouth:
+1F60F	:smirk: :smug: W.W w.w ù.ù ù_ù U_U v.v V_V V.V v_v u.u U.U
+1F612	:unamused:
+1F644	:face_with_rolling_eyes: :rolling_eyes:
+1F62C	:grimacing:
+1F4A8	:exhaling:
+1F925	:lying:
+1F60C	:relieved:
+1F614	:pensive:
+1F62A	:sleepy:
+1F924	:drooling:
+1F634	:sleeping:
+1F637	:mask:
+1F912	:thermometer_face:
+1F915	:head_bandage:
+1F922	:nauseated_face: :nauseated: :sick: X_X #_# x_X X_x x_x X.X x.X X.x x.x
+1F92E	:face_vomiting: :vomiting: :throwup: -_- -__-
+1F927	:sneezing_face: :sneezing:
+1F975	:hot_face: :hot:
+1F976	:cold_face: :cold:
+1F974	:woozy_face: :woozy:
+1F635	:dizzy_face: :dizzy:
+1F4AB	:spiral_eyes:
+1F92F	:exploding_head: :depressed: :-(( :(( =(( 
+1F920	:cowboy:
+1F973	:partying_face: :party: (O (o
+1F978	:disguised_face: :disguised:
+1F60E	:sunglasses: :cool: 8) 
+1F913	:nerd:
+1F9D0	:face_with_monocle: :monocle:
+1F615	:confused: :-] 
+1FAE4	:diagonal_mouth:
+1F61F	:worried:
+1F641	:slight_frown: :( :-(
+2639	:frowning2:
+1F62E	:open_mouth:
+1F62F	:hushed:
+1F632	:astonished: :surprised: :O :-O =O :o :-o ;o ;-o
+1F633	:flushed:
+1F97A	:pleading_face: :pleading:
+1F979	:face_holding_back_tears:
+1F626	:frowning:
+1F627	:anguished:
+1F628	:fearful:
+1F630	:cold_sweat:
+1F625	:disappointed_relieved: :sad: :-[ :[ =( =[ :-< :< =<
+1F622	:cry: ;( ;-( 
+1F62D	:sob: :emotional: :c :-c
+1F631	:scream:
+1F616	:confounded:
+1F623	:persevere:
+1F61E	:disappointed:
+1F613	:sweat: :downcast_with_sweat: @_@ ?_? :-S :S =S
+1F629	:weary:
+1F62B	:tired_face: :tired: :() :-()
+1F971	:yawning_face: :yawning:
+1F624	:triumph: :steam_from_nose:
+1F621	:rage: :=> :-> )O
+1F620	:angry: >:-@ >:@ >:( >_< è_é X-( X-C X-/
+1F92C	:face_with_symbols_over_mouth: :symbols_over_mouth:
+1F608	:smiling_imp:
+1F47F	:imp:
+1F480	:skull:
+2620	:skull_crossbones:
+1F4A9	:poop:
+1F921	:clown:
+1F479	:japanese_ogre:
+1F47A	:japanese_goblin:
+1F47B	:ghost:
+1F47D	:alien:
+1F47E	:space_invader:
+1F916	:robot:
+1F648	:see_no_evil:
+1F649	:hear_no_evil: :monkey: :ape: :@ :-@
+1F64A	:speak_no_evil:
+1F48C	:love_letter:
+1F498	:heart_with_arrow:
+1F49D	:heart_with_ribbon:
+1F496	:sparkling_heart:
+1F497	:growing_heart:
+1F493	:beating_heart:
+1F49E	:revolving_hearts:
+1F495	:two_hearts:
+1F49F	:heart_decoration:
+2763	:heart_exclamation:
+1F494	:broken_heart:
+FE0F	:heart_on_fire:
+2764	:red_heart:
+1F9E1	:orange_heart:
+1F49B	:yellow_heart:
+1F49A	:green_heart:
+1F499	:blue_heart:
+1F49C	:purple_heart:
+1F90E	:brown_heart:
+1F5A4	:black_heart:
+1F90D	:white heart:
+1F48B	:kiss:
+1F4AF	:100: :hundred_points:
+1F4A2	:anger:
+1F4A5	:boom:
+1F4A6	:sweat_drops:
+1F573	:hole:
+1F4AC	:speech_balloon:
+1F5EF	:anger_bubble:
+1F4AD	:thought_balloon:
+1F4A4	:zzz:
+1F44B	:wave:
+1F91A	:raised_back_of_hand:
+1F590	:hand_with_fingers_splayed:
+270B	:hand: :raised_hand:
+1F596	:vulcan_salute:
+1F44C	:ok_hand:
+1F90C	:pinched_fingers:
+1F90F	:pinching_hand:
+270C	:v: :victory_hand:
+1F91E	:crossed_fingers:
+1F91F	:love_you_gesture:
+1F918	:sign_of_the_horns:
+1F919	:call_me_hand:
+1F448	:point_left: :backhand_index_pointing_left:
+1F449	:point_right: :backhand_index_pointing_right:
+1F446	:point_up_2: :backhand_index_pointing_up:
+1F595	:middle_finger:
+1F447	:backhand_index_pointing_down:
+261D	:point_up: :index_pointing_up:
+1F44D	:thumbsup: :thumbs_up:
+1F44E	:thumbsdown: :thumbs_down:
+270A	:fist: :raised_fist:
+1F44A	:facepunch: :oncoming_fist:
+1F91B	:left_facing_fist:
+1F91C	:right_facing_fist:
+1F44F	:clap: :clapping_hands:
+1F64C	:raised_hands: :raising_hands:
+1F450	:open_hands:
+1F932	:palms_up_together:
+1F91D	:handshake:
+1F64F	:pray: :folded_hands:
+270D	:writing_hand:
+1F485	:nail_care: :nail_polish:
+1F933	:selfie:
+1F4AA	:muscle: :flexed_biceps:
+1F9BE	:mechanical_arm:
+1F9BF	:mechanical_leg:
+1F9B5	:leg:
+1F9B6	:foot:
+1F442	:ear:
+1F9BB	:ear_with_hearing_aid:
+1F443	:nose:
+1F9E0	:brain:
+1FAC0	:anatomical_heart:
+1FAC1	:lungs:
+1F9B7	:tooth:
+1F9B4	:bone:
+1F440	:eyes:
+1F441	:eye:
+1F445	:tongue: :oops: :razz: :-p =P =p xP
+1F444	:mouth:
+1F476	:baby:
+1F9D2	:child:
+1F466	:boy:
+1F467	:girl:
+1F9D1	:person:
+1F471	:person_with_blond_hair:
+1F468	:man:
+1F9D4	:person_with_beard: :bearded_person:
+1F469	:woman:
+1F9D3	:older_person: :older_adult:
+1F474	:old_man:
+1F475	:old_woman:
+1F64D	:person_frowning:
+1F64E	:person_pouting:
+1F645	:person_gesturing_NO: :no_good:
+1F646	:ok_woman: :person_gesturing_OK:
+1F481	:information_desk_person: :person_tipping_hand:
+1F64B	:person_raising_hand: :raising_hand:
+1F9CF	:deaf_person:
+1F647	:person_bowing: :bow:
+1F926	:person_facepalming:
+1F937	:person_shrugging:
+1F46E	:police_officer: :cop:
+1F575	:detective:
+1F482	:guard: :guardsman:
+1F977	:ninja:
+1F477	:construction_worker:
+1F934	:prince:
+1F478	:princess:
+1F473	:person_wearing_turban: :man_with_turban:
+1F472	:person_with_skullcap: :man_with_gua_pi_mao:
+1F9D5	:woman_with_headscarf:
+1F935	:person_in_tuxedo:
+1F470	:bride_with_veil: :	person_with_veil:
+1F930	:pregnant_woman:
+1F931	:breast_feeding:
+1F47C	:baby_angel:
+1F385	:santa_claus: :santa:
+1F936	:mrs_claus: 
+1F9B8	:superhero:
+1F9B9	:supervillain:
+1F9D9	:mage:
+1F9DA	:fairy:
+1F9DB	:vampire:
+1F9DC	:merperson:
+1F9DD	:elf:
+1F9DE	:genie:
+1F9DF	:zombie:
+1F9D8	:person_in_lotus_position:
+1F6C0	:person_taking_bath: :bath:
+1F6CC	:person_in_bed: 
+1F331	:seedling:
+1FAB4	:potted_plant:
+1F332	:evergreen_tree:
+1F333	:deciduous_tree:
+1F334	:palm_tree:
+1F335	:cactus:
+1F33E	:sheaf_of_rice: :ear_of_rice:
+1F33F	:herb:
+2618	:shamrock:
+1F340	:four_leaf_clover:
+1F341	:maple_leaf:
+1F342	:fallen_leaf:
+1F343	:leaf_fluttering_in_wind:
+1F344	:mushroom:
+1F347	:grapes:
+1F348	:melon:
+1F349	:watermelon:
+1F34A	:tangerine:
+1F34B	:lemon:
+1F34C	:banana:
+1F34D	:pineapple:
+1F96D	:mango:
+1F34E	:red_apple:
+1F34F	:green_apple:
+1F350	:pear:
+1F351	:peach:
+1F352	:cherries:
+1F353	:strawberry:
+1FAD0	:blueberries:
+1F95D	:kiwi_fruit: :kiwi:
+1F345	:tomato:
+1FAD2	:olive:
+1F965	:coconut:
+1F951	:avocado:
+1F346	:eggplant:
+1F954	:potato:
+1F955	:carrot:
+1F33D	:ear_of_corn: :corn:
+1F336	:hot_pepper:
+1FAD1	:bell_pepper:
+1F952	:cucumber:
+1F96C	:leafy_green:
+1F966	:broccoli:
+1F9C4	:garlic:
+1F9C5	:onion:
+1F95C	:peanuts:
+1F330	:chestnut:
+1F35E	:bread:
+1F950	:croissant:
+1F956	:baguette_bread:
+1FAD3	:flatbread:
+1F968	:pretzel:
+1F96F	:bagel:
+1F95E	:pancakes:
+1F9C7	:waffle:
+1F9C0	:cheese_wedge:
+1F356	:meat_on_bone:
+1F357	:poultry_leg:
+1F969	:cut_of_meat:
+1F953	:bacon:
+1F354	:hamburger:
+1F35F	:french_fries:
+1F355	:pizza:
+1F32D	:hot_dog:
+1F96A	:sandwich:
+1F32E	:taco:
+1F32F	:burrito:
+1FAD4	:tamale:
+1F959	:stuffed_flatbread:
+1F9C6	:falafel:
+1F95A	:egg:
+1F373	:cooking:
+1F958	:shallow_pan_of_food:
+1F372	:pot_of_food:
+1FAD5	:fondue:
+1F963	:bowl_with_spoon:
+1F957	:green_salad:
+1F37F	:popcorn:
+1F9C8	:butter:
+1F9C2	:salt:
+1F96B	:canned_food:
+1F366	:soft_ice_cream:
+1F367	:shaved_ice:
+1F368	:ice_cream:
+1F369	:doughnut:
+1F36A	:cookie:
+1F382	:birthday_cake:
+1F370	:shortcake:
+1F9C1	:cupcake:
+1F967	:pie:
+1F36B	:chocolate_bar:
+1F36C	:candy:
+1F36D	:lollipop:
+1F36E	:custard:
+1F36F	:honey_pot:
+1F37C	:baby_bottle:
+1F95B	:glass_of_milk:
+2615	:hot_beverage:
+1FAD6	:teapot:
+1F375	:teacup_without_handle:
+1F376	:sake:
+1F37E	:bottle_with_popping_cork:
+1F377	:wine_glass:
+1F378	:cocktail_glass:
+1F379	:tropical_drink:
+1F37A	:beer_mug:
+1F37B	:clinking beer mugs:
+1F942	:clinking_glasses:
+1F943	:tumbler glass:
+1F964	:cup_with_straw:
+1F9CB	:bubble_tea:
+1F9C3	:beverage_box:
+1F9C9	:mate:
+1F9CA	:ice:
+1F962	:chopsticks:
+1F37D	:fork_and_knife_with_plate:
+1F374	:fork and knife:
+1F944	:spoon:
+1F52A	:kitchen_knife:
+1F3FA	:amphora:
+1F30D	:globe_showing_europe_africa:
+1F30E	:globe_showing_americas:
+1F30F	:globe_showing_asia-australia:
+1F310	:globe_with_meridians:
+1F5FA	:world_map:
+1F5FE	:map_of_japan:
+1F9ED	:compass:
+1F3D4	:snow_capped_mountain:
+26F0	:mountain:
+1F30B	:volcano:
+1F5FB	:mount_fuji:
+1F3D5	:camping:
+1F3D6	:beach_with_umbrella:
+1F3DC	:desert:
+1F3DD	:desert_island:
+1F3DE	:national_park:
+1F3DF	:stadium:
+1F3DB	:classical_building:
+1F3D7	:building_construction:
+1F9F1	:brick:
+1FAA8	:rock:
+1FAB5	:wood:
+1F6D6	:hut:
+1F3D8	:houses:
+1F3DA	:derelict_house:
+1F3E0	:house:
+1F3E1	:house_with_garden:
+1F3E2	:office_building:
+1F3E3	:japanese_post_office:
+1F3E4	:post_office:
+1F3E5	:hospital:
+1F3E6	:bank:
+1F3E8	:hotel:
+1F3E9	:love_hotel:
+1F3EA	:convenience_store:
+1F3EB	:school:
+1F3EC	:department_store:
+1F3ED	:factory:
+1F3EF	:japanese_castle:
+1F3F0	:castle:
+1F492	:wedding:
+1F5FC	:tokyo_tower:
+1F5FD	:Statue_of_Liberty:
+26EA	:church:
+1F54C	:mosque:
+1F6D5	:hindu_temple:
+1F54D	:synagogue:
+26E9	:shinto shrine:
+1F54B	:kaaba:
+26F2	:fountain:
+26FA	:tent:
+1F301	:foggy:
+1F303	:night_with_stars:
+1F3D9	:cityscape:
+1F304	:sunrise_over_mountains:
+1F305	:sunrise:
+1F306	:cityscape_at_dusk:
+1F307	:sunset:
+1F309	:bridge_at_night:
+2668	:hot_springs:
+1F3A0	:carousel_horse:
+1F3A1	:ferris_wheel:
+1F3A2	:roller_coaster:
+1F488	:barber_pole:
+1F3AA	:circus_tent:
+1F682	:locomotive:
+1F683	:railway_car:
+1F684	:high_speed_train:
+1F685	:bullet_train:
+1F686	:train:
+1F687	:metro:
+1F688	:light_rail:
+1F689	:station:
+1F68A	:tram:
+1F69D	:monorail:
+1F69E	:mountain_railway:
+1F68B	:tram_car:
+1F68C	:bus:
+1F68D	:oncoming_bus:
+1F68E	:trolleybus:
+1F690	:minibus:
+1F691	:ambulance:
+1F692	:fire_engine:
+1F693	:police_car:
+1F694	:oncoming_police_car:
+1F695	:taxi:
+1F696	:oncoming_taxi:
+1F697	:automobile:
+1F698	:oncoming_automobile:
+1F699	:sport_utility_vehicle:
+1F6FB	:pickup_truck:
+1F69A	:delivery_truck:
+1F69B	:articulated_lorry:
+1F69C	:tractor:
+1F3CE	:racing_car:
+1F3CD	:motorcycle:
+1F6F5	:motor_scooter:
+1F9BD	:manual_wheelchair:
+1F9BC	:motorized_wheelchair:
+1F6FA	:auto_rickshaw:
+1F6B2	:bicycle:
+1F6F4	:kick_scooter:
+1F6F9	:skateboard:
+1F6FC	:roller_skate:
+1F68F	:bus_stop:
+1F6E3	:motorway:
+1F6E4	:railway_track:
+1F6E2	:oil_drum:
+26FD	:fuel_pump:
+1F6A8	:police_car_light:
+1F6A5	:horizontal_traffic_light:
+1F6A6	:vertical_traffic_light:
+1F6D1	:stop_sign:
+1F6A7	:construction:
+2693	:anchor:
+26F5	:sailboat:
+1F6F6	:canoe:
+1F6A4	:speedboat:
+1F6F3	:passenger_ship:
+26F4	:ferry:
+1F6E5	:motor_boat:
+1F6A2	:ship:
+2708	:airplane:
+1F6E9	:small_airplane:
+1F6EB	:airplane_departure:
+1F6EC	:airplane_arrival:
+1FA82	:parachute:
+1F4BA	:seat:
+1F681	:helicopter:
+1F69F	:suspension_railway:
+1F6A0	:mountain_cableway:
+1F6A1	:aerial_tramway:
+1F6F0	:satellite:
+1F680	:rocket:
+1F6F8	:flying_saucer:
+1F6CE	:bellhop_bell:
+1F9F3	:luggage:
+231B	:hourglass_done:
+23F3	:hourglass_not_done:
+231A	:watch:
+23F0	:alarm_clock:
+23F1	:stopwatch:
+23F2	:timer_clock:
+1F570	:mantelpiece_clock:
+1F55B	:twelve_o_clock:
+1F567	:twelve_thirty:
+1F550	:one_o_clock:
+1F55C	:one_thirty:
+1F551	:two_o_clock:
+1F55D	:two_thirty:
+1F552	:three_o_clock:
+1F55E	:three_thirty:
+1F553	:four_o_clock:
+1F55F	:four_thirty:
+1F554	:five_o_clock:
+1F560	:five_thirty:
+1F555	:six_o_clock:
+1F561	:six_thirty:
+1F556	:seven_o_clock:
+1F562	:seven_thirty:
+1F557	:eight_o_clock:
+1F563	:eight_thirty:
+1F558	:nine_o_clock:
+1F564	:nine_thirty:
+1F559	:ten_o_clock:
+1F565	:ten_thirty:
+1F55A	:eleven_o_clock:
+1F566	:eleven_thirty:
+1F311	:new_moon:
+1F312	:waxing_crescent_moon:
+1F313	:first_quarter_moon:
+1F314	:waxing_gibbous_moon:
+1F315	:full_moon:
+1F316	:waning_gibbous_moon:
+1F317	:last_quarter_moon:
+1F318	:waning_crescent_moon:
+1F319	:crescent moon:
+1F31A	:new_moon_face:
+1F31B	:first_quarter_moon_face:
+1F31C	:last_quarter_moon_face:
+1F321	:thermometer:
+2600	:sun:
+1F31D	:full_moon_face:
+1F31E	:sun_with_face:
+1FA90	:ringed_planet:
+2B50	:star:
+1F31F	:glowing_star:
+1F320	:shooting_star:
+1F30C	:milky_way:
+2601	:cloud:
+26C5	:sun_behind_cloud:
+26C8	:cloud_with_lightning_and_rain:
+1F324	:sun_behind_small_cloud:
+1F325	:sun_behind_large_cloud:
+1F326	:sun_behind_rain_cloud:
+1F327	:cloud_with_rain:
+1F328	:cloud_with_snow:
+1F329	:cloud_with_lightning:
+1F32A	:tornado:
+1F32B	:fog:
+1F32C	:wind_face:
+1F300	:cyclone:
+1F308	:rainbow:
+1F302	:closed_umbrella:
+2602	:umbrella:
+2614	:umbrella_with_rain_drops:
+26F1	:umbrella_on_ground:
+26A1	:high_voltage:
+2744	:snowflake:
+2603	:snowman:
+26C4	:snowman_without_snow:
+2604	:comet:
+1F525	:fire:
+1F4A7	:droplet:
+1F30A	:water_wave:
+1F383	:jack_o_lantern:
+1F384	:christmas_tree:
+1F386	:fireworks:
+1F387	:sparkler:
+1F9E8	:firecracker:
+2728	:sparkles:
+1F388	:balloon:
+1F389	:party_popper:
+1F38A	:confetti_ball:
+1F38B	:tanabata_tree:
+1F38D	:pine_decoration:
+1F38E	:japanese_dolls:
+1F38F	:carp_streamer:
+1F390	:wind_chime:
+1F391	:moon_viewing_ceremony:
+1F9E7	:red_envelope:
+1F380	:ribbon:
+1F381	:wrapped_gift:
+1F397	:reminder_ribbon:
+1F39F	:admission_tickets:
+1F3AB	:ticket:
+1F396	:military_medal:
+1F3C6	:trophy:
+1F3C5	:sports_medal:
+1F947	:1st_place_medal:
+1F948	:2nd_place_medal:
+1F949	:3rd_place_medal:
+26BD	:soccer_ball:
+26BE	:baseball:
+1F94E	:softball:
+1F3C0	:basketball:
+1F3D0	:volleyball:
+1F3C8	:american_football:
+1F3C9	:rugby_football:
+1F3BE	:tennis:
+1F94F	:flying_disc:
+1F3B3	:bowling:
+1F3CF	:cricket_game:
+1F3D1	:field_hockey:
+1F3D2	:ice_hockey:
+1F94D	:lacrosse:
+1F3D3	:ping_pong:
+1F3F8	:badminton:
+1F94A	:boxing_glove:
+1F94B	:martial_arts_uniform:
+1F945	:goal_net:
+26F3	:flag_in_hole:
+26F8	:ice_skate:
+1F3A3	:fishing_pole:
+1F93F	:diving_mask:
+1F3BD	:running_shirt:
+1F3BF	:skis:
+1F6F7	:sled:
+1F94C	:curling_stone:
+1F3AF	:bullseye:
+1FA80	:yo_yo:
+1FA81	:kite:
+1F52B	:water_pistol:
+1F3B1	:pool_8_ball:
+1F52E	:crystal_ball:
+1FA84	:magic_wand:
+1F3AE	:video_game:
+1F579	:joystick:
+1F3B0	:slot_machine:
+1F3B2	:game_die:
+1F9E9	:puzzle_piece:
+1F9F8	:teddy_bear:
+1FA85	:pinata:
+1FA86	:nesting_dolls:
+2660	:spade_suit:
+2665	:heart_suit:
+2666	:diamond_suit:
+2663	:club_suit:
+265F	:chess_pawn:
+1F0CF	:joker:
+1F004	:mahjong_red_dragon:
+1F3B4	:flower_playing_cards:
+1F3AD	:performing_arts:
+1F5BC	:framed_picture:
+1F3A8	:artist_palette:
+1F9F5	:thread:
+1FAA1	:sewing_needle:
+1F9F6	:yarn:
+1FAA2	:knot:
+1F453	:glasses:
+1F576	:sunglasses:
+1F97D	:goggles:
+1F97C	:lab_coat:
+1F9BA	:safety_vest:
+1F454	:necktie:
+1F455	:t-shirt:
+1F456	:jeans:
+1F9E3	:scarf:
+1F9E4	:gloves:
+1F9E5	:coat:
+1F9E6	:socks:
+1F457	:dress:
+1F458	:kimono:
+1F97B	:sari:
+1FA71	:one_piece_swimsuit:
+1FA72	:briefs:
+1FA73	:shorts:
+1F459	:bikini:
+1F45A	:womans_clothes:
+1F45B	:purse:
+1F45C	:handbag:
+1F45D	:clutch_bag:
+1F6CD	:shopping_bags:
+1F392	:backpack:
+1FA74	:thong_sandal:
+1F45E	:mans_shoe:
+1F45F	:running_shoe:
+1F97E	:hiking_boot:
+1F97F	:flat_shoe:
+1F460	:high_heeled_shoe:
+1F461	:womans_sandal:
+1FA70	:ballet_shoes:
+1F462	:womans_boot:
+1F451	:crown:
+1F452	:womans_hat:
+1F3A9	:top_hat:
+1F393	:graduation_cap:
+1F9E2	:billed_cap:
+1FA96	:military_helmet:
+26D1	:rescue_workers_helmet:
+1F4FF	:prayer_beads:
+1F484	:lipstick:
+1F48D	:ring:
+1F48E	:gem_stone:
+1F507	:muted_speaker:
+1F508	:speaker_low_volume:
+1F509	:speaker_medium_volume:
+1F50A	:speaker_high_volume:
+1F4E2	:loudspeaker:
+1F4E3	:megaphone:
+1F4EF	:postal_horn:
+1F514	:bell:
+1F515	:bell_with_slash:
+1F3BC	:musical_score:
+1F3B5	:musical_note:
+1F3B6	:musical_notes:
+1F399	:studio_microphone:
+1F39A	:level_slider:
+1F39B	:control_knobs:
+1F3A4	:microphone:
+1F3A7	:headphone:
+1F4FB	:radio:
+1F3B7	:saxophone:
+1FA97	:accordion:
+1F3B8	:guitar:
+1F3B9	:musical_keyboard:
+1F3BA	:trumpet:
+1F3BB	:violin:
+1FA95	:banjo:
+1F941	:drum:
+1FA98	:long_drum:
+1F4F1	:mobile_phone:
+1F4F2	:mobile_phone_with_arrow:
+260E	:telephone:
+1F4DE	:telephone_receiver:
+1F4DF	:pager:
+1F4E0	:fax_machine:
+1F50B	:battery:
+1F50C	:electric_plug:
+1F4BB	:laptop:
+1F5A5	:desktop_computer:
+1F5A8	:printer:
+2328	:keyboard:
+1F5B1	:computer_mouse:
+1F5B2	:trackball:
+1F4BD	:computer_disk:
+1F4BE	:floppy_disk:
+1F4BF	:optical_disk:
+1F4C0	:dvd:
+1F9EE	:abacus:
+1F3A5	:movie_camera:
+1F39E	:film_frames:
+1F4FD	:film_projector:
+1F3AC	:clapper_board:
+1F4FA	:television:
+1F4F7	:camera:
+1F4F8	:camera_with_flash:
+1F4F9	:video_camera:
+1F4FC	:videocassette:
+1F50D	:magnifying_glass_tilted_left:
+1F50E	:magnifying_glass_tilted right:
+1F56F	:candle:
+1F4A1	:light_bulb:
+1F526	:flashlight:
+1F3EE	:red_paper_lantern:
+1FA94	:diya_lamp:
+1F4D4	:notebook_with_decorative_cover:
+1F4D5	:closed_book:
+1F4D6	:open_book:
+1F4D7	:green_book:
+1F4D8	:blue_book:
+1F4D9	:orange_book:
+1F4DA	:books:
+1F4D3	:notebook:
+1F4D2	:ledger:
+1F4C3	:page_with_curl:
+1F4DC	:scroll:
+1F4C4	:page_facing_up:
+1F4F0	:newspaper:
+1F5DE	:rolled_up_newspaper:
+1F4D1	:bookmark_tabs:
+1F516	:bookmark:
+1F3F7	:label:
+1F4B0	:money_bag:
+1FA99	:coin:
+1F4B4	:yen_banknote:
+1F4B5	:dollar_banknote:
+1F4B6	:euro_banknote:
+1F4B7	:pound_banknote:
+1F4B8	:money_with_wings:
+1F4B3	:credit_card:
+1F9FE	:receipt:
+1F4B9	:chart_increasing_with_yen:
+2709	:envelope:
+1F4E7	:email:
+1F4E8	:incoming_envelope:
+1F4E9	:envelope_with_arrow:
+1F4E4	:outbox_tray:
+1F4E5	:inbox tray:
+1F4E6	:package:
+1F4EB	:closed_mailbox_with_raised_flag:
+1F4EA	:closed_mailbox_with_lowered_flag:
+1F4EC	:open_mailbox_with_raised_flag:
+1F4ED	:open_mailbox_with_lowered flag:
+1F4EE	:postbox:
+1F5F3	:ballot_box_with_ballot:
+270F	:pencil:
+2712	:black_nib:
+1F58B	:fountain_pen:
+1F58A	:pen:
+1F58C	:paintbrush:
+1F58D	:crayon:
+1F4DD	:memo:
+1F4BC	:briefcase:
+1F4C1	:file_folder:
+1F4C2	:open_file_folder:
+1F5C2	:card_index_dividers:
+1F4C5	:calendar:
+1F4C6	:tear_off_calendar:
+1F5D2	:spiral_notepad:
+1F5D3	:spiral_calendar:
+1F4C7	:card_index:
+1F4C8	:chart_increasing:
+1F4C9	:chart_decreasing:
+1F4CA	:bar_chart:
+1F4CB	:clipboard:
+1F4CC	:pushpin:
+1F4CD	:round_pushpin:
+1F4CE	:paperclip:
+1F587	:linked_paperclips:
+1F4CF	:straight_ruler:
+1F4D0	:triangular_ruler:
+2702	:scissors:
+1F5C3	:card_file_box:
+1F5C4	:file_cabinet:
+1F5D1	:wastebasket:
+1F512	:locked:
+1F513	:unlocked:
+1F50F	:locked_with_pen:
+1F510	:locked_with_key:
+1F511	:key:
+1F5DD	:old_key:
+1F528	:hammer:
+1FA93	:axe:
+26CF	:pick:
+2692	:hammer_and_pick:
+1F6E0	:hammer_and_wrench:
+1F5E1	:dagger:
+2694	:crossed_swords:
+1F4A3	:bomb:
+1FA83	:boomerang:
+1F3F9	:bow_and_arrow:
+1F6E1	:shield:
+1FA9A	:carpentry_saw:
+1F527	:wrench:
+1FA9B	:screwdriver:
+1F529	:nut_and_bolt:
+2699	:gear:
+1F5DC	:clamp:
+2696	:balance_scale:
+1F9AF	:white_cane:
+1F517	:link:
+26D3	:chains:
+1FA9D	:hook:
+1F9F0	:toolbox:
+1F9F2	:magnet:
+1FA9C	:ladder:
+2697	:alembic:
+1F9EA	:test_tube:
+1F9EB	:petri_dish:
+1F9EC	:dna:
+1F52C	:microscope:
+1F52D	:telescope:
+1F4E1	:satellite_antenna:
+1F489	:syringe:
+1FA78	:drop_of_blood:
+1F48A	:pill:
+1FA79	:adhesive_bandage:
+1FA7A	:stethoscope:
+1F6AA	:door:
+1F6D7	:elevator:
+1FA9E	:mirror:
+1FA9F	:window:
+1F6CF	:bed:
+1F6CB	:couch_and_lamp:
+1FA91	:chair:
+1F6BD	:toilet:
+1FAA0	:plunger:
+1F6BF	:shower:
+1F6C1	:bathtub:
+1FAA4	:mouse_trap:
+1FA92	:razor:
+1F9F4	:lotion_bottle:
+1F9F7	:safety_pin:
+1F9F9	:broom:
+1F9FA	:basket:
+1F9FB	:roll_of_paper:
+1FAA3	:bucket:
+1F9FC	:soap:
+1FAA5	:toothbrush:
+1F9FD	:sponge:
+1F9EF	:fire_extinguisher:
+1F6D2	:shopping_cart:
+1F6AC	:cigarette:
+26B0	:coffin:
+1FAA6	:headstone:
+26B1	:funeral_urn:
+1F9FF	:nazar_amulet:
+1F5FF	:moai:
+1FAA7	:placard:
+1F3E7	:atm_sign:
+1F6AE	:litter_in_bin_sign:
+1F6B0	:potable_water:
+267F	:wheelchair_symbol:
+1F6B9	:mens_room:
+1F6BA	:womens_room:
+1F6BB	:restroom:
+1F6BC	:baby_symbol:
+1F6BE	:water_closet:
+1F6C2	:passport_control:
+1F6C3	:customs:
+1F6C4	:baggage_claim:
+1F6C5	:left_luggage:
+26A0	:warning: :!: :!!:
+1F6B8	:children_crossing:
+26D4	:no_entry:
+1F6AB	:prohibited:
+1F6B3	:no_bicycles:
+1F6AD	:no_smoking:
+1F6AF	:no_littering:
+1F6B1	:non_potable_water:
+1F6B7	:no_pedestrians:
+1F4F5	:no_mobile_phones:
+1F51E	:no_one_under_eighteen:
+2622	:radioactive:
+2623	:biohazard:
+2B06	:up_arrow:
+2197	:up_right_arrow:
+27A1	:right_arrow: :go-next: >>
+2198	:down_right_arrow:
+2B07	:down_arrow:
+2199	:down_left_arrow:
+2B05	:left_arrow:
+2196	:up_left_arrow:
+2195	:up_down_arrow:
+2194	:left_right_arrow:
+21A9	:right_arrow_curving_left:
+21AA	:left_arrow_curving_right:
+2934	:right_arrow_curving_up:
+2935	:right_arrow_curving_down:
+1F503	:clockwise_vertical_arrows:
+1F504	:counterclockwise_arrows_button:
+1F519	:back_arrow:
+1F51A	:end_arrow:
+1F51B	:on_arrow:
+1F51C	:soon_arrow:
+1F51D	:top_arrow:
+1F6D0	:place_of_worship:
+269B	:atom_symbol:
+1F549	:om:
+2721	:star_of_david:
+2638	:wheel_of_dharma:
+262F	:yin_yang:
+271D	:latin_cross:
+2626	:orthodox_cross:
+262A	:star_and_crescent:
+262E	:peace_symbol:
+1F54E	:menorah:
+1F52F	:dotted_six_pointed_star:
+2648	:aries:
+2649	:taurus:
+264A	:gemini:
+264B	:cancer:
+264C	:leo:
+264D	:virgo:
+264E	:libra:
+264F	:scorpio:
+2650	:sagittarius:
+2651	:capricorn:
+2652	:Aquarius:
+2653	:pisces:
+26CE	:ophiuchus:
+1F500	:shuffle_tracks_button:
+1F501	:repeat_button:
+1F502	:repeat_single_button:
+25B6	:play_button:
+23E9	:fast_forward_button:
+23ED	:next_track_button:
+23EF	:play_or_pause_button:
+25C0	:reverse_button:
+23EA	:fast_reverse_button:
+23EE	:last_track_button:
+1F53C	:upwards button:
+23EB	:fast_up_button:
+1F53D	:downwards_button:
+23EC	:fast_down_button:
+23F8	:pause_button:
+23F9	:stop_button:
+23FA	:record_button:
+23CF	:eject_button:
+1F3A6	:cinema:
+1F505	:dim_button:
+1F506	:bright_button:
+1F4F6	:antenna_bars:
+1F4F3	:vibration_mode:
+1F4F4	:mobile_phone_off:
+2640	:female_sign:
+2642	:male_sign:
+26A7	:transgender_symbol:
+2716	:multiply:
+2795	:plus:
+2796	:minus:
+2797	:divide:
+1F7F0	:heavy_equals_sign:
+267E	:infinity:
+203C	:double_exclamation_mark:
+2049	:exclamation_question_mark:
+2753	:red_question_mark: :help: :? :-? 
+2754	:white_question_mark:
+2755	:white_exclamation_mark:
+2757	:red_exclamation_mark:
+3030	:wavy_dash:
+1F4B1	:currency_exchange:
+1F4B2	:heavy_dollar_sign:
+2695	:medical_symbol:
+267B	:recycling_symbol:
+269C	:fleur_de_lis:
+1F531	:trident_emblem:
+1F4DB	:name_badge:
+1F530	:japanese_symbol_for_beginner:
+2B55	:hollow_red_circle:
+2705	:check_mark_button:
+2611	:check_box_with_check:
+2714	:check_mark:
+274C	:cross_mark:
+274E	:cross_mark_button:
+27B0	:curly_loop:
+27BF	:double_curly_loop:
+303D	:part_alternation_mark:
+2733	:eight_spoked_asterisk:
+2734	:eight_pointed_star:
+2747	:sparkle:
+00A9	:copyright:
+00AE	:registered:
+2122	:trade_mark:
+1F520	:input_latin_uppercase:
+1F521	:input_latin_lowercase:
+1F522	:input_numbers:
+1F523	:input_symbols:
+1F524	:input_latin_letters:
+1F170	:a_button_blood_type:
+1F18E	:ab_button_blood_type:
+1F171	:b_button _blood_type:
+1F191	:cl_button:
+1F192	:cool_button:
+1F193	:free_button:
+2139	:information:
+1F194	:id_button:
+24C2	:circled_m:
+1F195	:new_button:
+1F196	:ng_button:
+1F17E	:0_button_blood_type:
+1F197	:ok_button:
+1F17F	:p_button:
+1F198	:sos_button:
+1F199	:up_button:
+1F19A	:vs_button:
+1F534	:red_circle:
+1F7E0	:orange_circle:
+1F7E1	:yellow_circle:
+1F7E2	:green_circle:
+1F535	:blue_circle:
+1F7E3	:purple_circle:
+1F7E4	:brown_circle:
+26AB	:black_circle:
+26AA	:white_circle:
+1F7E5	:red_square:
+1F7E7	:orange_square:
+1F7E8	:yellow_square:
+1F7E9	:green_square:
+1F7E6	:blue_square:
+1F7EA	:purple_square:
+1F7EB	:brown_square:
+2B1B	:black_large_square:
+2B1C	:white_large_square:
+25FC	:black_medium_square:
+25FB	:white_medium_square:
+25FE	:black_medium_small_square:
+25FD	:white_medium_small_square:
+25AA	:black_small_square:
+25AB	:white_small_square:
+1F536	:large_orange_diamond:
+1F537	:large_blue_diamond:
+1F538	:small_orange_diamond:
+1F539	:small_blue_diamond:
+1F53A	:red_triangle_pointed_up:
+1F53B	:red_triangle_pointed_down:
+1F4A0	:diamond_with_a_dot:
+1F518	:radio_button:
+1F533	:white_square_button:
+1F532	:black_square_button:
+1F3C1	:chequered_flag:
+1F6A9	:triangular_flag:
+1F38C	:crossed_flags:
+1F3F4	:black_flag:
+1F3F3	:white_flag:
+1F1EA	:flag_germany:
+1F1FA	:flag_european_union:
+E007F	:flag_england:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

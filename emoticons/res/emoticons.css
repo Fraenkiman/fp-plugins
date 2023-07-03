@@ -1,0 +1,23 @@
+/*
+ * ====================
+ * Emoticons CSS Styles
+ * ====================
+ *
+ * Name: Emoticons CSS
+ * Author: Fraenkiman
+ * Version: 0.2
+ * Module: emoticons.css
+ * Description: This file defines the style of the emoticons
+ * Last change: 26.09.2022
+ * License:	The Google font "Noto Emoji" and its derivatives are licensed under the SIL Open Font License (OFL).
+ */
+ 
+.emoticon {
+	margin: 0px 3px 0px 3px !important;
+	padding: 0;
+	border: none;
+	/* height: 21px; */
+	height: 1.35em;
+	/* vertical-align: middle; */
+	vertical-align: top;
+}

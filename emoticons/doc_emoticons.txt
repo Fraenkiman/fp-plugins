@@ -1,0 +1,26 @@
+Emoticons-Plugin
+================
+
+Thanks for the template to Edoardo Vacchi (NoWhereMan)
+
+In posts or comments, if certain strings are enclosed by spaces or the strings are at the end of a line, the strings will be replaced with emoticons.
+
+Example:
+Text ;) Text
+Text :wink: Text
+Text 1F609
+
+A list of markdown emoji markups is available at the following link: https://gist.github.com/rxaviers/7360908
+You can choose from 1116 emoticons, which are located in the plugin directory emoticons/img/.
+The Google font "Noto Emoji" and its derivatives are licensed under the SIL Open Font License (OFL).   
+
+The strings can be customized in the plugin PHP script.
+
+Changelog:
+----------
+
+Fixed path for DOC (thx on Arvid @azett),
+Added google moto emoticons,
+Put an emoticon at the end of a line if no space follows (thx on Arvid @azett)
+
+
