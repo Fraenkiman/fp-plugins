@@ -1383,14 +1383,14 @@ function plugin_emoticons_filter ($emostring) {
 	$ed = EMOTICONS_DIR;
 
 	foreach ($EMOTICONS as $emo => $img) {
-		$emostring = str_replace(
-			//[" $emo "," $emo","$emo "],
-			[" $emo "," $emo","$emo "], /* when surrounded by spaces or at the end of a line */
-			//"<img src=\"{$ed}{$img}\" class=\"emoticon\" alt=\"{$emo}\" title=\"{$emo}\">",
-			"&#x${emo}",
-			$emostring
-		);
-	}
+                $emostring = str_replace(
+                        //[" $emo "," $emo","$emo "],
+                        [" $emo "," $emo","$emo "], /* when surrounded by spaces or at the end of a line */
+                        //"<img src=\"{$ed}{$img}.png\" class=\"emoticon\" alt=\"{$emo}\" title=\"{$emo}\">",
+                        " &#x{$img}; ",
+                        $emostring
+                );
+        }
 
 	return $emostring;
 
