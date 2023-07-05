@@ -1398,7 +1398,7 @@ function plugin_emoticons_filter ($emostring) {
 		$emostring = str_replace(
 			//[" $emo "," $emo","$emo "],
 			[" $emo "," $emo","$emo "], /* when surrounded by spaces or at the end of a line */
-			"<img src=\"{$ed}{$img}\" class=\"emoticon\" alt=\"{$emo}\" title=\"{$emo}\">",
+			"<img src=\"{$ed}{$img}.png\" class=\"emoticon\" alt=\"{$emo}\" title=\"{$emo}\">",
 			$emostring
 		);
 	}
