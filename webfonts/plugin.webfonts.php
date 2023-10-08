@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Google Webfonts
- * Version: 1.0.0
+ * Version: 1.0.1
  * Plugin URI: https://frank-web.dedyn.io
  * Description: Provides the Google Web Fonts <a href="https://fonts.google.com/specimen/Open+Sans" title="opens a preview of Google Fonts" target="_blank">Open Sans</a>, <a href="https://fonts.google.com/specimen/Noto+Sans" title="opens a preview of Google Fonts" target="_blank">Noto Sans</a>, <a href="https://fonts.google.com/specimen/Noto+Sans+Mono" title="opens a preview of Google Fonts" target="_blank">Noto Sans Mono</a>, <a href="https://fonts.google.com/specimen/Ubuntu+Mono" title="opens a preview of Google Fonts" target="_blank">Ubuntu Mono</a> and <a href="https://fonts.google.com/specimen/Playfair-Display" title="opens a preview of Google Fonts" target="_blank">Playfair Display</a> on your web server. <a href="./fp-plugins/webfonts/doc_webfonts.txt" title="Instructions" target="_blank">[Instructions]</a>
  * Author: Fraenkiman
