@@ -8,11 +8,11 @@ based on the original FlatPress plugin [syntaxhighlighter from 2005](https://for
 
 ## installation
 
-Download the [latest release](https://git.la10cy.net/DeltaLima/flatpress-plugin-syntaxhighlighter-ng/releases) and extract `syntaxhighlighter-ng_v1.x.x.zip` to your `fp-plugins/` folder.
+Download the [latest release](https://github.com/Fraenkiman/fp-plugins/archive/refs/heads/main.zip) and extract `main.zip` to your `fp-plugins/` folder.
 
 If you want to use git, use
 ```shell
-$ git clone https://git.la10cy.net/DeltaLima/flatpress-plugin-syntaxhighlighter-ng.git /pathto/flatpress/fp-plugins/syntaxhighlighter/
+$ git@github.com:Fraenkiman/fp-plugins.git /pathto/flatpress/fp-plugins/
 ```
 
 ## codeblock with language syntax highlightning
