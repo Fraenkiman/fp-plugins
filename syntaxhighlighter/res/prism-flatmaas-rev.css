@@ -38,8 +38,8 @@ pre[class*="language-"] {
 	margin: .5em 0;
 	overflow: visible;
 	padding: 1px;
-    margin-left: auto;
-    margin-right: auto
+	margin-left: auto;
+	margin-right: auto
 }
 
 pre[class*="language-"] > code {
@@ -178,7 +178,7 @@ pre[class*="language-"]:after {
 
 /* Plugin styles: Line Numbers */
 pre[class*=language-].line-numbers {
-    padding-left: unset !IMPORTANT
+	padding-left: unset !IMPORTANT
 }
 
 pre[class*="language-"].line-numbers.line-numbers code {
