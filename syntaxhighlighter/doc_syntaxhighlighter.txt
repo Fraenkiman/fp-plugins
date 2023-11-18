@@ -29,6 +29,7 @@ apache config block
 
 Configuration
 -------------
+When using a FlatPress Leggero style, the matching prism theme is displayed.
 You can configure the prism.js package size to use (tiny, small, full) and the used theme (coy, dark, default, funky, okaidia, solarizedlight, tomorrow, twilight).
 
 Just edit for that config.php
