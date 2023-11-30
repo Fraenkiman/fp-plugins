@@ -33,7 +33,7 @@ $url = '' . $host . $path . '/';
 
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -44,7 +44,7 @@ $url = '' . $host . $path . '/';
 
 /* cyrillic */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -55,7 +55,7 @@ $url = '' . $host . $path . '/';
 
 /* greek-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -66,7 +66,7 @@ $url = '' . $host . $path . '/';
 
 /* greek */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -77,7 +77,7 @@ $url = '' . $host . $path . '/';
 
 /* latin-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -88,7 +88,7 @@ $url = '' . $host . $path . '/';
 
 /* latin */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -99,7 +99,7 @@ $url = '' . $host . $path . '/';
 
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 700;
   font-display: swap;
@@ -110,7 +110,7 @@ $url = '' . $host . $path . '/';
 
 /* cyrillic */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 700;
   font-display: swap;
@@ -121,7 +121,7 @@ $url = '' . $host . $path . '/';
 
 /* greek-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 700;
   font-display: swap;
@@ -132,7 +132,7 @@ $url = '' . $host . $path . '/';
 
 /* greek */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 700;
   font-display: swap;
@@ -143,7 +143,7 @@ $url = '' . $host . $path . '/';
 
 /* latin-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 700;
   font-display: swap;
@@ -154,7 +154,7 @@ $url = '' . $host . $path . '/';
 
 /* latin */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: italic;
   font-weight: 700;
   font-display: swap;
@@ -165,7 +165,7 @@ $url = '' . $host . $path . '/';
 
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -176,7 +176,7 @@ $url = '' . $host . $path . '/';
 
 /* cyrillic */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -187,7 +187,7 @@ $url = '' . $host . $path . '/';
 
 /* greek-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -198,7 +198,7 @@ $url = '' . $host . $path . '/';
 
 /* greek */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -209,7 +209,7 @@ $url = '' . $host . $path . '/';
 
 /* latin-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -220,7 +220,7 @@ $url = '' . $host . $path . '/';
 
 /* latin */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -231,7 +231,7 @@ $url = '' . $host . $path . '/';
 
 /* cyrillic-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -242,7 +242,7 @@ $url = '' . $host . $path . '/';
 
 /* cyrillic */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -253,7 +253,7 @@ $url = '' . $host . $path . '/';
 
 /* greek-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -264,7 +264,7 @@ $url = '' . $host . $path . '/';
 
 /* greek */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -275,7 +275,7 @@ $url = '' . $host . $path . '/';
 
 /* latin-ext */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -286,7 +286,7 @@ $url = '' . $host . $path . '/';
 
 /* latin */
 @font-face {
-  font-family: 'Ubuntu Mono';
+  font-family: "Ubuntu Mono";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
